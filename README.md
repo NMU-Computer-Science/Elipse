@@ -23,6 +23,3 @@ Elipse is an iterative weather application that provides real-time weather infor
 
 ## Setup and Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
